@@ -1,0 +1,24 @@
+{
+  "name": "lm-chat",
+  "version": "1.0.0",
+  "description": "This Chat Uses Firebase API in LM Studio.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "lms dev",
+    "push": "lms push"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lmstudio/sdk": "1.4.0",
+    "openai": "^5.2.0",
+    "zod": "3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "firebase-admin": "^14.1.0",
+    "typescript": "^5.9.3"
+  },
+  "keywords": []
+}
