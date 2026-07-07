@@ -16,11 +16,13 @@ A lightweight, secure peer-to-peer messaging tool that connects your local LLM t
 ### Installation
 
 ```typescript  title="CMD/bash"
+git clone https://github.com/dimwap/lm-chat.git
+cd lm-chat
 npm install
 npx tsc
 lms dev -i -y
 ```
-or Hub: [tupik/lm-chat](https://lmstudio.ai/tupik/lm-chat) click `run`
+or just at LM Studio Hub: [tupik/lm-chat](https://lmstudio.ai/tupik/lm-chat) click `run` etc.
 
 ### Ideas for future development
 
